@@ -12,8 +12,8 @@ export const menuItems: MenuItem[] = [
 export const combos = [
   { name: 'Chicken Burger + Peri Peri Fries + Extras', price: '349 rs', image: 'https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=900&q=85' },
   { name: 'Veg Sandwich + Salted Fries + Extras', price: '300 rs', image: 'https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=900&q=85' },
-  { name: 'Mini Pancakes + Mini Pops 4 + Cold Coffee', price: '410 rs', image: 'https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=900&q=85' },
-  { name: 'Skillet S’mores + Chocolate Pops 3 + Belgian Chocolate Shake', price: '509 rs', image: 'https://images.unsplash.com/photo-1579954115545-a95591f28bfc?auto=format&fit=crop&w=900&q=85' },
+  { name: 'Mini Pancakes + Mini Pops 4 + Cold Coffee', price: '410 rs', image: '' },
+  { name: 'Skillet S’mores + Chocolate Pops 3 + Belgian Chocolate Shake', price: '509 rs', image: '' },
 ]
 
 export const menuPages = [
@@ -26,7 +26,7 @@ export const categories = [
 ] as const
 
 export const gallery = [
-  { title: 'Chocolate moments', kind: 'Desserts', image: 'https://images.unsplash.com/photo-1551024601-bec78aea704b?auto=format&fit=crop&w=1000&q=85' },
+  { title: 'Tiny Treats after dark', kind: 'Our storefront', image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_2003.JPEG-8bzf24IuBIHQcSPshfq2QJbQCKJDmc.jpeg' },
   { title: 'Chill cravings', kind: 'Ice Cream', image: 'https://images.unsplash.com/photo-1563805042-7684c019e1cb?auto=format&fit=crop&w=900&q=85' },
   { title: 'Pops of joy', kind: 'Popsicles', image: 'https://images.unsplash.com/photo-1567206563064-6f60f40a2b57?auto=format&fit=crop&w=900&q=85' },
   { title: 'Coffee break', kind: 'Coffee', image: 'https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=900&q=85' },
