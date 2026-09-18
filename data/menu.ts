@@ -33,4 +33,4 @@ export const gallery = [
   { title: 'A chocolate moment', kind: 'Freshly made', image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-09-18%20at%202.53.29%20PM-K2ZG30Dz0YGwKs0jbMP41DK7mIq3lA.jpeg' },
 ]
 
-export const business = { address: 'Tiny Treats', mapUrl: 'https://maps.app.goo.gl/G8a2EohGWpwJxn7Z7?g_st=ac', phone: '+91 94942 26030', whatsapp: '', hours: '3:00 PM – 11:00 PM', instagram: 'https://instagram.com/tiny.treatscafe?stkn=MXh6Z3pmaXpsb2hhaQ==' }
+export const business = { address: 'Tiny Treats', mapUrl: 'https://maps.app.goo.gl/G8a2EohGWpwJxn7Z7?g_st=ac', phone: '+91 77806 27864', creatorPhone: '9494226030', whatsapp: '', hours: '3:00 PM – 11:00 PM', instagram: 'https://instagram.com/tiny.treatscafe?stkn=MXh6Z3pmaXpsb2hhaQ==' }
