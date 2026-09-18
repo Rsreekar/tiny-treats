@@ -10,8 +10,8 @@ export const menuItems: MenuItem[] = [
 ]
 
 export const combos = [
-  { name: 'Chicken Burger + Peri Peri Fries + Extras', price: '349 rs', image: 'https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=900&q=85' },
-  { name: 'Veg Sandwich + Salted Fries + Extras', price: '300 rs', image: 'https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=900&q=85' },
+  { name: 'Chicken Burger + Peri Peri Fries + Extras', price: '349 rs', image: '' },
+  { name: 'Veg Sandwich + Salted Fries + Extras', price: '300 rs', image: '' },
   { name: 'Mini Pancakes + Mini Pops 4 + Cold Coffee', price: '410 rs', image: '' },
   { name: 'Skillet S’mores + Chocolate Pops 3 + Belgian Chocolate Shake', price: '509 rs', image: '' },
 ]
