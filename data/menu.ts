@@ -34,4 +34,4 @@ export const gallery = [
   { title: 'Savoury side', kind: 'Savoury', image: 'https://images.unsplash.com/photo-1585238342024-78d387f4a707?auto=format&fit=crop&w=900&q=85' },
 ]
 
-export const business = { address: 'Tiny Treats', mapUrl: 'https://maps.app.goo.gl/G8a2EohGWpwJxn7Z7?g_st=ac', phone: '', whatsapp: '', hours: '3:00 PM – 11:00 PM', instagram: '' }
+export const business = { address: 'Tiny Treats', mapUrl: 'https://maps.app.goo.gl/G8a2EohGWpwJxn7Z7?g_st=ac', phone: '+91 77806 27864', whatsapp: '', hours: '3:00 PM – 11:00 PM', instagram: '' }
